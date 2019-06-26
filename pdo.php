@@ -4,6 +4,8 @@
  * Config files
  */
 
+// BDD ecommerce
+
 const DB_HOST = 'localhost';
 const DB_PORT = '8889';
 const DB_NAME = 'ecommerce';
